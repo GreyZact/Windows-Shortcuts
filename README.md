@@ -18,3 +18,7 @@ Left Alt + Numpad[0] | Pause/Play
 Left Alt + Up        | Sound Volume UP
 Left Alt + Down      | Sound Volume Down
 Left Alt + Numpad[.] | Sound Mute
+
+## How to add to Windows 10 Startup
+
+[LINK](http://tunecomp.net/add-app-to-startup/)

@@ -19,6 +19,12 @@ Left Alt + Up        | Sound Volume UP
 Left Alt + Down      | Sound Volume Down
 Left Alt + Numpad[.] | Sound Mute
 
+Windows 10 paste fix for Ubuntu bash.
+
+Shortcut             | Description
+-------------------- | -----------------
+Ctrl + V     | Paste
+
 ## How to add to Windows 10 Startup
 
 [LINK](http://tunecomp.net/add-app-to-startup/)

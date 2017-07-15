@@ -6,7 +6,6 @@ This is a small side project written in [AHK](https://autohotkey.com/).
 
 There are two files `media_shortcuts.ahk` for compiling and/or changing it yourself and `media_shortcuts.exe` if you just want to download stuff that just works
 
-[VirusTotal scan 0/60](https://www.virustotal.com/en/file/df9fc3a0030b8c059c331e01aad26cf97d3fd66106d5e149ef4ac96f1128b6cd/analysis/1497541063/)
 
 ## Shortcuts
 

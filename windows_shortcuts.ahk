@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; Hotfix for Windows 10 Ubuntu Bash Ctrl Paste
 
-^V::SendRaw %clipboard%
++^V::SendRaw %clipboard%
 
 ; Windows Media Keys
 

@@ -23,7 +23,7 @@ Windows 10 paste fix for Ubuntu bash.
 
 Shortcut             | Description
 -------------------- | -----------------
-Ctrl + V     | Paste
+Shift + Ctrl + V     | Paste
 
 ## How to add to Windows 10 Startup
 
